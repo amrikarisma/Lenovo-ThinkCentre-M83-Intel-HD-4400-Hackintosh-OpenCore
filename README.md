@@ -4,9 +4,9 @@
 ```
 Model              Lenovo ThinkCentre M83 SFF
 Mainboard          Intel Q85
-CPU                Intel Core i3-4130
-Memory             10G DDR3 1600MHz (4G+2GB+2GB+2GB)
-Graphics           Intel HD Graphics 4400
+CPU                Intel Core i5-4460
+Memory             16GB DDR3 1600MHz (4GB+2GB+2GB+8GB)
+Graphics           Intel HD Graphics 4600
 Audio              Realtek ALC283
 Ethernet           Intel I217LM
 Wi-Fi              No WiFi Card
@@ -17,7 +17,7 @@ OpenCore Version   0.6.7
 ```
 Note : 
 ```
-Intel HD 4400 : Please use DisplayPort (Harware Acceleration not working if connect monitor via VGA/D-SUB Port)
+Intel HD 4600 : Please use DisplayPort (Harware Acceleration not working if connect monitor via VGA/D-SUB Port)
 
 Serial Number : Please use your own serial number or regenerate.
 ```
