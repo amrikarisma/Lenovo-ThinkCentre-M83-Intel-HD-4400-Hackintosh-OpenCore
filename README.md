@@ -1,4 +1,4 @@
-# Lenovo ThinkCentre M83 Intel HD 4400 Hackintosh OpenCore
+# Lenovo ThinkCentre M83 Intel HD 4600 Hackintosh OpenCore
 ![m83](m83.webp)
 
 ```
